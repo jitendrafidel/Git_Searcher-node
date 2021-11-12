@@ -1,0 +1,6 @@
+export const actionTypes = {
+    SET_USERS : "SET_USERS",
+    SET_REPOSITORIES : "SET_REPOSITORIES",
+    SET_ISSUES : "SET_ISSUES",
+    DELECT_DATA : "DELECT_DATA"
+}

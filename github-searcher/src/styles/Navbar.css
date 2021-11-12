@@ -1,0 +1,30 @@
+.logoDiv {
+    display:inline-block;
+}
+
+.headDiv{
+    display : inline-block; 
+    margin-left : 10px;
+}
+
+.image {
+    height : 40px;
+    width : 40px;
+    margin-right : 4px;
+}
+
+.mutedText {
+    color : #777;
+    margin : 0;
+    padding-top :0;
+}
+
+.input {
+    padding : 12px 20px;
+    font-size : 15px;
+    margin : 0px 15px;
+    display : inline-block;
+    border : 1px solid #ccc;
+    border-radius : 4px;
+    background :white;
+}
